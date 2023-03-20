@@ -1,2 +1,2 @@
 # machine-learning-project
-Machine learning project through Google Colab
+Machine learning project developed via Google Colab.
